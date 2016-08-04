@@ -1,0 +1,38 @@
+_repo: Meditations_2680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marcus Aurelius, Emperor of Rome
+    aliases:
+    - Antoninus, Marcus Aurelius
+    - Aurel, Marc
+    birthdate: 121
+    deathdate: 180
+    gutenberg_agent_id: '998'
+    url: http://www.gutenberg.org/2009/agents/998
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Aurelius
+description: The Roman emperor Marcus Aurelius Antoninus (a.d. 121'180) embodied in
+  his person that deeply cherished, ideal figure of antiquity, the philosopher-king.
+  His Meditations are not only one of the most important expressions of the Stoic
+  philosophy of his time but also an enduringly inspiring guide to living a good and
+  just life. Written in moments snatched from military campaigns and the rigors of
+  politics, these ethical and spiritual reflections reveal a mind of exceptional clarity
+  and originality, and a spirit attuned to both the particulars of human destiny and
+  the vast patterns that underlie it. From the Hardcover edition.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2001-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcsh 'Stoics'
+- !lcsh 'Life'
+- !lcc 'B'
+- GITenberg
+title: Meditations
+url: http://www.gutenberg.org/ebooks/2680
