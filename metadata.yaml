@@ -1,5 +1,8 @@
 _repo: Meditations_2680
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marcus Aurelius, Emperor of Rome
@@ -19,6 +22,8 @@ description: The Roman emperor Marcus Aurelius Antoninus (a.d. 121'180) embodied
   politics, these ethical and spiritual reflections reveal a mind of exceptional clarity
   and originality, and a spirit attuned to both the particulars of human destiny and
   the vast patterns that underlie it. From the Hardcover edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2680#Meditations
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2001-06-01'
 gutenberg_type: Text
